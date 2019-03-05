@@ -15,3 +15,4 @@ dependencies:
 - us
 - gmaps
 - ipywidgets
+- xmltodict
