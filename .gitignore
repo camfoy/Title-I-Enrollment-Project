@@ -10,6 +10,7 @@ __pycache__/
 .Python
 *.jpg
 Resources/
+data/
 keys/
 __pycache__/
 build/
