@@ -16,3 +16,4 @@ dependencies:
 - gmaps
 - ipywidgets
 - xmltodict
+- plotly
