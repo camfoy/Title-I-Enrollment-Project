@@ -129,7 +129,7 @@ class SchoolExplorer(object
               location=(latitude, longitude),
               stroke_color=color,
               fill_color=color,
-              scale=(int(enroll)+1)*3,
+              scale=(int(enroll)+1)*4,
               info_box_content=name
             )
             symbols.append(symbol)
