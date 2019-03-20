@@ -5,7 +5,7 @@
 
 
 # Dependencies
-from keys import googleKey
+from notebooks.keys import googleKey
 
 import gmaps
 import numpy as np
@@ -21,7 +21,7 @@ import ipywidgets as widgets
 
 
 ## https://jupyter-gmaps.readthedocs.io/en/latest/app_tutorial.html
-gmaps.configure(api_key=googleKey.gkey)
+gmaps.configure(api_key=googleKey)
 class SchoolExplorer(object
 ):
     """

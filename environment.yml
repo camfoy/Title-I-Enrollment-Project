@@ -17,3 +17,4 @@ dependencies:
 - ipywidgets
 - xmltodict
 - plotly
+- cufflinks
